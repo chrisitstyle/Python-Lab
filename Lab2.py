@@ -1,5 +1,7 @@
 #4,11-12
 import random
+
+#zdefiniowane funkcje - chrisitstyle
 def zad4(lista1,lista2):
     wynik4=[]
     for i in range(len(lista1)):
